@@ -1,2 +1,3 @@
-Socket-chat /
-Simple socket-chat with Server, Chat-bot and GuiClient
+Chat /
+Server-Client chat with java Socket /
+Application has chat-bot ang GuiCLient
